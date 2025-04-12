@@ -1,0 +1,1 @@
+- r.jina.ai/https://example.com/
